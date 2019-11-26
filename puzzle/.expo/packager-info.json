@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 80462,
+  "expoServerNgrokUrl": "https://sj-ewh.anonymous.puzzle.exp.direct",
+  "packagerNgrokUrl": "https://packager.sj-ewh.anonymous.puzzle.exp.direct",
+  "ngrokPid": 80476,
+  "webpackServerPort": null
+}
