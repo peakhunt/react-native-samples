@@ -6,7 +6,6 @@
     "slug": "expo-template-bare",
     "privacy": "unlisted",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "sdkVersion": "35.0.0",
     "version": "1.0.0",
     "entryPoint": "node_modules/expo/AppEntry.js",
